@@ -1,2 +1,2 @@
 # hello-worlds
-learning code sharing with others
+learning code sharing with others for global development
